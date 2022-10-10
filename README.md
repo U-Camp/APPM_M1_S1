@@ -1,5 +1,20 @@
 ![Banner](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/Banner_APPM.png?raw=true)
-<iframe src="https://drive.google.com/file/d/1xhsOIxqNC0SZKve7orHg_RDMREukO343/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # APPM_M1_S1
-Al término de esta semana el participante conocerá los términos teóricos sobre el desarrollo de aplicaciones multiplataforma, se adentrará en cómo utilizar Flutter (plataforma tecnológica para el desarrollo de apps para móviles Android, iOS y otros dispositivos) y configurará su entorno de desarrollo en Flutter.
+¡Hola, te damos la bienvenida al Bootcamp de Aplicaciones móviles multiplataforma en Flutter! 
+Espero te encuentres muy bien y con mucha motivación para empezar el recorrido del diseño y creación de apps multiplataforma empresariales e industriales para sistemas operativos móviles como iOS y Android, así como de escritorio para Windows, MacOS, Linux o para la web, utilizando la plataforma de Dart y Flutter.
+
+El objetivo de este primer módulo es que domines las bases tanto teóricas como prácticas sobre el desarrollo de aplicaciones multiplataforma, así como la sintaxis en el lenguaje de Dart. Además, conocerás las ventajas de desarrollar este tipo de aplicaciones y aprenderás a instalar las herramientas de desarrollo de Flutter, configurar un nuevo proyecto y cargarlo en un simulador y/o en un dispositivo físico.
+
+Iniciemos con la semana 1 de contenido. En esta conocerás los inicios del desarrollo de una app de forma nativa y multiplataforma; no te preocupes, entenderás todos estos conceptos muy pronto, así mismo se te ayudará a configurar tu entorno para poder crear apps en Windows, Mac o Linux.
+
+¡Comencemos!
+
+## Desarrollo de aplicaciones nativas (móviles, web y escritorio)
+
+El desarrollo de aplicaciones nativas hace alusión a que se emplea el lenguaje nativo de la plataforma para su construcción. Por ejemplo, el desarrollo de aplicaciones en el sistema operativo en Android sería en los lenguajes tales como Java y Kotlin. En el caso de Apple (iOS), el desarrollo sería en los lenguajes Objective-C y Swift o en el framework SwiftUI. Un último ejemplo sería el desarrollo de aplicaciones en Windows, que puede realizarse con el lenguaje de C# y Visual Basic Net, por mencionar los principales.
+
+A continuación, enumeramos las siguientes ventajas de utilizar el desarrollo de aplicaciones nativas:
+
+*1. Se trabaja directamente con las funciones y el SDK (software development kit) oficial del sistema operativo, en el que se puede utilizar toda función sin límites.
+Se puede acceder a los sensores y hardware del dispositivo.
