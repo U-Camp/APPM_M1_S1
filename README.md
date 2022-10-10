@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1xhsOIxqNC0SZKve7orHg_RDMREukO343/preview)
+![Banner](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/Banner_APPM.png?raw=true)
 <iframe src="https://drive.google.com/file/d/1xhsOIxqNC0SZKve7orHg_RDMREukO343/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # APPM_M1_S1
