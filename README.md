@@ -24,3 +24,4 @@ Sin embargo, también hay desventajas, que varios autores y expertos relatan:
 - Será necesario dar mantenimiento a cada desarrollo que se vaya haciendo y contar con las personas con el nivel de expertise adecuado para llevarlo a cabo.
 - En ningún momento se demerita el desarrollo nativo, sino que se debe tomar en cuenta para la toma de decisiones en la creación de una app o un sistema.
 
+![M1S1_1](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_5.png)
