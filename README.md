@@ -16,5 +16,6 @@ El desarrollo de aplicaciones nativas hace alusión a que se emplea el lenguaje 
 
 A continuación, enumeramos las siguientes ventajas de utilizar el desarrollo de aplicaciones nativas:
 
--'1. Se trabaja directamente con las funciones y el SDK (software development kit) oficial del sistema operativo, en el que se puede utilizar toda función sin límites.
-Se puede acceder a los sensores y hardware del dispositivo.'
+-1. Se trabaja directamente con las funciones y el SDK (software development kit) oficial del sistema operativo, en el que se puede utilizar toda función sin límites.
+-2. Se puede acceder a los sensores y hardware del dispositivo.
+- 3. La experiencia de diseño y desarrollo corresponde al 100 % del rendimiento que cada sistema ofrece.
