@@ -15,6 +15,12 @@ Iniciemos con la semana 1 de contenido. En esta conocerás los inicios del desar
 El desarrollo de aplicaciones nativas hace alusión a que se emplea el lenguaje nativo de la plataforma para su construcción. Por ejemplo, el desarrollo de aplicaciones en el sistema operativo en Android sería en los lenguajes tales como Java y Kotlin. En el caso de Apple (iOS), el desarrollo sería en los lenguajes Objective-C y Swift o en el framework SwiftUI. Un último ejemplo sería el desarrollo de aplicaciones en Windows, que puede realizarse con el lenguaje de C# y Visual Basic Net, por mencionar los principales.
 
 A continuación, enumeramos las siguientes ventajas de utilizar el desarrollo de aplicaciones nativas:
-- 1. Se trabaja directamente con las funciones y el SDK (software development kit) oficial del sistema operativo, en el que se puede utilizar toda función sin límites.
-- 2. Se puede acceder a los sensores y hardware del dispositivo.
-- 3. La experiencia de diseño y desarrollo corresponde al 100 % del rendimiento que cada sistema ofrece.
+- Se trabaja directamente con las funciones y el SDK (software development kit) oficial del sistema operativo, en el que se puede utilizar toda función sin límites.
+- Se puede acceder a los sensores y hardware del dispositivo.
+- La experiencia de diseño y desarrollo corresponde al 100 % del rendimiento que cada sistema ofrece.
+
+Sin embargo, también hay desventajas, que varios autores y expertos relatan:
+- Es necesario contar con un equipo multidisciplinario que conozca varios lenguajes de programación para cada plataforma o sistema operativo.
+- Será necesario dar mantenimiento a cada desarrollo que se vaya haciendo y contar con las personas con el nivel de expertise adecuado para llevarlo a cabo.
+- En ningún momento se demerita el desarrollo nativo, sino que se debe tomar en cuenta para la toma de decisiones en la creación de una app o un sistema.
+
