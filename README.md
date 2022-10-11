@@ -37,8 +37,21 @@ Hay varias clasificaciones de estos lenguajes, como alto nivel y bajo nivel, com
 
 A continuación, se muestra un ejemplo de desarrollo de una app en iOS y Android utilizando el lenguaje de programación Swift y Kotlin, respectivamente. Esto para brindar el contexto sobre cómo se desarrolla con tecnología nativa. En próximas lecciones, se observará cómo se lleva a cabo empleando Flutter.
 
-[![Alt text](https://img.youtube.com/vi/v=u6nl1_Pd83Y/0.jpg)](https://www.youtube.com/watch?v=u6nl1_Pd83Y)
-
 [![Alt text](https://img.youtube.com/vi/u6nl1_Pd83Y/0.jpg)](https://www.youtube.com/watch?v=u6nl1_Pd83Y)
 
+## Actualidad sobre el desarrollo de aplicaciones multiplataforma
+
+El desarrollo multiplataforma se define como un proceso mediante el cual se lleva a cabo una aplicación independiente al sistema operativo, ya sea móvil o de escritorio, con un mismo lenguaje de programación. Esto facilita su exportación y visualización en cualquier dispositivo de los sistemas operativos ya mencionados. 
+
+Todo se lleva a cabo con un mismo lenguaje de programación. Pueden desarrollarse apps multiplataforma que de manera nativa requerirían que manejáramos de uno a tres lenguajes.
+
+Al respecto, la Universidad Europea menciona: "Aunque las aplicaciones nativas tienen un buen rendimiento y un elevado nivel de personalización, el desarrollo de aplicaciones multiplataforma se está imponiendo porque permite ahorrar tiempo, energía y recursos a las empresas, ya que no es necesario programar diferentes apps" (Universidad Europea, 2022).
+
+El desarrollo móvil multiplataforma es una tendencia que crece año tras año, ya que permite, a partir de un código común, generar aplicaciones para los sistemas operativos móviles más usados actualmente: Android e iOS.
+
+Esto hace posible que una empresa, especialmente si es relativamente pequeña, desarrolle su aplicación móvil y la publique en la tienda de aplicaciones de ambos sistemas operativos sin la necesidad de dos equipos distintos, cada uno especializado en una de las plataformas, reduciendo así los costes. Además, el tiempo de desarrollo disminuye y la cantidad de código duplicado, dado que las funciones solo se programan una vez y funcionan en ambas plataformas.
+
+No obstante, optar por un desarrollo móvil multiplataforma también tiene dos desventajas principales: el rendimiento, el cual, en la mayoría de los casos, se ve afectado por el uso de componentes no nativos, dado que la comunicación de estos con los distintos componentes nativos de cada plataforma suele ser inconsistente. La otra desventaja es la experiencia de usuario, dado que los componentes de la interfaz no pueden aprovechar el potencial que podrían al no ser componentes nativos de la propia plataforma.
+
+Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más utilizados son React Native y Xamarin. A estos se ha unido recientemente Flutter, que soluciona los principales problemas del resto de frameworks de desarrollo móvil multiplataforma, y que se analizará en el tema siguiente.
 
