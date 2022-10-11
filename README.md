@@ -25,3 +25,18 @@ Sin embargo, también hay desventajas, que varios autores y expertos relatan:
 - En ningún momento se demerita el desarrollo nativo, sino que se debe tomar en cuenta para la toma de decisiones en la creación de una app o un sistema.
 
 ![M1S1_1](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_5.png)
+Figura 1. Las plataformas con su propio lenguaje de programación
+
+Quizá tengas varias preguntas en este primer tema, ya que se habla de varias tecnologías, tecnicismos y lenguajes de programación. A continuación, te vamos a ayudar a entender todos estos términos.
+
+**Lenguaje de programación**. Muchos lo definen de la siguiente manera: es la forma de comunicarnos con una computadora, tableta o celular para indicarle qué queremos hacer.
+
+**Framework**. Puede definirse como un esquema o marco de trabajo que ofrece una estructura base para elaborar un proyecto con objetivos específicos; es una especie de plantilla que sirve como punto de partida para la organización y desarrollo de software. 
+
+Hay varias clasificaciones de estos lenguajes, como alto nivel y bajo nivel, compilados e interpretados, pero hablaremos más adelante sobre estos y otros términos. ¡Avancemos!
+
+A continuación, se muestra un ejemplo de desarrollo de una app en iOS y Android utilizando el lenguaje de programación Swift y Kotlin, respectivamente. Esto para brindar el contexto sobre cómo se desarrolla con tecnología nativa. En próximas lecciones, se observará cómo se lleva a cabo empleando Flutter.
+
+[![Alt text](https://img.youtube.com/vi/v=u6nl1_Pd83Y/0.jpg)](https://www.youtube.com/watch?v=u6nl1_Pd83Y)
+
+
