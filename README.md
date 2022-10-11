@@ -55,4 +55,9 @@ No obstante, optar por un desarrollo móvil multiplataforma también tiene dos d
 
 Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más utilizados son React Native y Xamarin. A estos se ha unido recientemente Flutter, que soluciona los principales problemas del resto de frameworks de desarrollo móvil multiplataforma, y que se analizará en el tema siguiente.
 
-![M1S1_1](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_5.png)
+![M1S1_1](https://raw.githubusercontent.com/U-Camp/APPM_M1_S1/ae5087e4aedb605c6a4827ceeb750179e9f52c4b/imagenes/M1_AppsFlutter_6.png?token=A3GACYVYVD5INOZNF5C7N6LDIXJEY)
+Figura 2. Desarrollo multiplataforma actual en todos los dispositivos con la misma base de código
+
+##¿Qué es Flutter y por qué usarlo?}
+
+
