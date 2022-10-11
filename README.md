@@ -58,6 +58,23 @@ Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más
 ![M1S1_1](https://raw.githubusercontent.com/U-Camp/APPM_M1_S1/ae5087e4aedb605c6a4827ceeb750179e9f52c4b/imagenes/M1_AppsFlutter_6.png?token=A3GACYVYVD5INOZNF5C7N6LDIXJEY)
 Figura 2. Desarrollo multiplataforma actual en todos los dispositivos con la misma base de código
 
-##¿Qué es Flutter y por qué usarlo?}
+## ¿Qué es Flutter y por qué usarlo?
 
+Flutter se define como un SDK de Google, creado para diseñar interfaces nativas iOS y Android. Su uso se ha extendido en los últimos años. Al 2022, es posible desarrollar aplicaciones de escritorio y web con la misma base de código. 
+
+Se decidió lanzarlo como un proyecto de código abierto, lo cual fue muy bien adoptado por la comunidad. Emplea el lenguaje de programación DART, que tiene gran parecido con varios lenguajes de programación existentes en el mercado.
+
+- Estas son algunas de las principales ventajas de utilizar Flutter:
+- Compila en nativo.
+- La creación de interfaces gráficas es muy flexible.
+- El desarrollo es muy rápido.
+- En el desarrollo de aplicaciones, toda vista es un widget y la conformación de estos pueden crear vistas atractivas. 
+- Utiliza un motor gráfico, llamado Skia, que renderiza en 2D los elementos gráficos. 
+- Está escrito en C, C++ y, en su mayor parte, en Dart. 
+- De forma resumida, la capa del motor está escrita en C++ y la de los widgets en Dart.
+
+ A continuación, dejamos un ejemplo de cómo se ve el código de Flutter y su resultado en un dispositivo móvil.
+ 
+ ![M1S1_1](https://raw.githubusercontent.com/U-Camp/APPM_M1_S1/ae5087e4aedb605c6a4827ceeb750179e9f52c4b/imagenes/M1_AppsFlutter_6.png?token=A3GACYVYVD5INOZNF5C7N6LDIXJEY)
+ 
 
