@@ -39,4 +39,6 @@ A continuación, se muestra un ejemplo de desarrollo de una app en iOS y Android
 
 [![Alt text](https://img.youtube.com/vi/v=u6nl1_Pd83Y/0.jpg)](https://www.youtube.com/watch?v=u6nl1_Pd83Y)
 
+[![Alt text](https://img.youtube.com/vi/u6nl1_Pd83Y/0.jpg)](https://www.youtube.com/watch?v=u6nl1_Pd83Y)
+
 
