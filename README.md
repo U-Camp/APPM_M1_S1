@@ -75,6 +75,9 @@ Se decidió lanzarlo como un proyecto de código abierto, lo cual fue muy bien a
 
  A continuación, dejamos un ejemplo de cómo se ve el código de Flutter y su resultado en un dispositivo móvil.
  
+![M1S1_1](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/APPM1.png?raw=true)
+Figura 3. Código de Flutter y su resultado en un dispositivo móvil
 
-![M1S1_1](https://raw.githubusercontent.com/U-Camp/APPM_M1_S1/ae5087e4aedb605c6a4827ceeb750179e9f52c4b/imagenes/M1_AppsFlutter_6.png?
+La siguiente infografía te permitirá comprender mejor cómo está estructurado el SDK de Flutter y sus tecnologías.
+ANEXAR INFOGRAFÍA
 
