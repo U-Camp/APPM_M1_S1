@@ -90,5 +90,12 @@ Desarrollar aplicaciones con métodos y modelos visuales es más rápido que rea
 Las plataformas *NoCode*son las que te solicitan arrastrar directamente los elementos visuales, cuyo resultado no es un código sino una app que cuenta ya, en la medida de lo posible, lo necesario para ser publicada.
 
 ![M1_AppsFlutter_4](https://user-images.githubusercontent.com/114032994/195194266-a98357c5-1d42-4150-a84f-b953540d9c01.png)
+Figura 4. Diferencias entre LowCode/NoCode. Adaptación de U Camp de https://www.moveoapps.com/blog/decoding-low-code-app-development/
+
+En Flutter existen varias herramientas tanto online como para instalar de manera local y, con ello, poder crear aplicaciones con dicha tecnología. Lo cierto es que, dependiendo de lo que ofrezcan, garantizará el éxito.
+
+A continuación, te presentamos algunas de las herramientas LowCode y NoCode que podrías revisar.
+
+1. https://flutterstudio.app
 
 
