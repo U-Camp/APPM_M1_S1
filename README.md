@@ -113,3 +113,44 @@ A continuación, te presentamos algunas de las herramientas LowCode y NoCode que
 ![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_8.png?raw=true)
 
 Si quieres explorar más sobre las herramientas LowCode y NoCode te compartimos el siguiente video del canal del maestro Felipe Hernández, experto en desarrollo web y móvil: https://www.youtube.com/watch?v=nB_-Dpr_8yc 
+
+## Requisitos previos para crear aplicaciones con Flutter
+
+Para desarrollar aplicaciones con la tecnología Flutter, debes considerar los requerimientos técnicos del equipo que vas a usar y los requerimientos de conocimiento que podrían facilitarte comprender mejor esta tecnología. A continuación, los describiremos.
+
+**Requisitos técnicos**
+
+Los requisitos mínimos son los siguientes:
+
+- PC con sistema operativo Linux (Ubuntu), Windows 10 o superior o MacOS.
+- Mínimo de 4 GB a 6 GB de memoria RAM.
+- Procesador equivalente a i3 o superior.
+- Smartphone Android o iOS para pruebas.
+- Espacio en disco duro de 30 gigabytes libres
+- Tener instalados los SDK de Dart y Flutter.
+
+Los requisitos ideales serían los siguientes:
+
+- PC con sistema operativo Linux (Ubuntu), Windows 10 o superior o MacOS.
+- Mínimo de 12 GB a 16 GB de memoria RAM.
+- Procesador equivalente a i7 o superior.
+- Smartphone Android o iOS para pruebas.
+- Espacio en disco duro de 30 gigabytes libres
+- Tener instalado los SDK de Dart y Flutter.
+
+En caso de Mac, se debe de tener instalado:
+
+- VSCode
+- Xcode
+- Android Studio
+
+En caso de Windows: 
+
+- VSCode
+- Android Studio
+
+**Requisitos de conocimiento**
+
+Para aprender Flutter desde cero realmente no necesitas conocer su sintaxis, sin embargo, te serviría mucho haber tomado un curso de lógica y de estructura de datos para entender mejor cómo organizar los widgets. Es prioridad desarrollar tu lógica.
+
+Algo más que podría ser útil es entender cómo funciona la programación orientada a objetos, ya que Flutter trabaja 100 % de esta manera, aunque en Flutter se les llama widgets.
