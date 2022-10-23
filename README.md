@@ -255,3 +255,107 @@ A continuación se ve el código con el resultado.
 
 ![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_11_resultado.gif?raw=true)
 
+
+##  La anatomía de una aplicación en Flutter
+
+Una aplicación en Flutter está compuesta de varias carpetas, archivos de configuración y código que cumple con ciertos propósitos cuando es ejecutada.
+
+La estructura de archivos es la organización de los datos de una aplicación. Juega un papel muy importante en la gestión fácil y eficaz del proyecto, sea de cualquier tamaño. A medida que crece un proyecto, se vuelve cada vez más importante tener una estructura y formato adecuados para el código, de lo contrario, puede generar muchos problemas como:
+
+- No se puede encontrar el archivo específico, que es un repositorio, por lo que es una tarea que requiere mucho tiempo.
+- No es apto para el trabajo en equipo.
+- Difícil de mantener.
+- En el peor de los casos, puede resultar una aplicación de bajo rendimiento.
+
+Para hacernos cargo de todos estos problemas, necesitamos tener una buena estructura de archivos en nuestra aplicación Flutter, y eso es lo que vamos a discutir enseguida.
+
+Aunque Flutter no da ninguna recomendación para la estructuración de la aplicación, debemos hacerla de la mejor manera posible.
+
+A continuación, describimos cada una de las carpetas de un proyecto Flutter:
+
+![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_12_anatomia.png?raw=true)
+
+La carpeta de Android contiene todo el proyecto que funciona con ese sistema operativo. El desarrollador de Flutter podrá utilizarla en temas de configuración o añadirla en caso de que se ocupen líneas de código.
+
+La carpeta de iOS contiene todo el proyecto de iOS. Igual que Android, el desarrollador podrá configurarla en caso de que se ocupe.
+
+En la carpeta Lib podemos crear carpetas o archivos Dart para la programación en Flutter. 
+
+Las carpetas de MacOS, Windows y Linux nos permiten agregar configuraciones, en particular con el sistema operativo.
+
+La carpeta web nos permite agregar configuraciones para nuestra aplicación en Flutter.
+
+Cabe resaltar que el contenido de estas carpetas dependerá del proyecto y las configuraciones que se agreguen. Puede suceder que, en tu caso, tengas menos o más elementos.
+
+Hay más archivos en cuanto a configuraciones de Flutter, pero hablaremos de ellos en el siguiente módulo.
+
+
+##  Reto de la semana
+
+**Tarea 1**
+
+Empleando las herramientas mencionadas de LowCode o NoCode, realiza el siguiente diseño (te recomendamos usar Flutter Studio):
+
+Los widgets o elementos visuales que se utilizarán son:
+
+Text (Nombre)
+TextField
+Text (Edad)
+Slider
+Text (Escolaridad)
+Dropdown
+Image
+FloactionButton 
+
+--IMAGEN RETO
+
+Como has observado, lo que debes realizar es arrastrar y cambiar las propiedades de cada uno de los widgets utilizados. Te invitamos a verificar cómo va quedando el código. Aunque es posible que no se comprenda todo lo que se está colocando, no te preocupes, lo entenderás en las próximas U Classes.
+
+
+**Tarea 2**
+
+Termina de configurar tu entorno de desarrollo para aplicaciones en Flutter, ya sea Visual Studio Code o Android Studio. Ahora, toma como base el ejercicio “Hola mundo” y realiza la siguiente aplicación:
+
+--IMAGEN DE LA TAREA 2
+
+Para agregarle una separación a los lados izquierdo y derecho, usa el widget paddig. Profundizaremos más al respecto en los siguientes ejercicios. 
+
+
+```Dart
+const Card(
+  child: Padding(
+    padding: EdgeInsets.all(16.0),
+    child: Text('Hello World!'),
+  ),
+```
+
+Link en el que podrás revisar más sobre este widget:
+https://api.flutter.dev/flutter/widgets/Padding-class.html
+
+
+##  Rescatando lo importante
+
+De esta sesión, lo más importante que rescataremos es lo siguiente:
+
+- 1. Una de las cosas que comprendiste es que antes de incursionar en el desarrollo multiplataforma debes conocer que toda tecnología tiene su parte nativa y sus respectivas ventajas y desventajas. Asimismo, visualizaste también cuántas tecnologías iguales a Flutter existen y por qué hemos elegido este programa en el presente Bootcamp, garantizando en todo momento sus bondades y la competitividad que garantiza.
+
+
+- 2. Una vez conocido el contexto del desarrollo de las aplicaciones nativas y multiplataforma, incursionaste en conocer más Flutter. Una de las cosas que descubriste fue que su paradigma de programación es declarativo y que ha crecido en muy poco tiempo. El programa asegura que la aplicación que desarrolles se puede ejecutar en móvil, escritorio y web.
+
+
+- 3. Una vez vista la definición y arquitectura de Flutter, te adentraste en las herramientas LowCode y NoCode que existen en esta tecnología, con la garantía de que al usarlas puedes reducir sustancialmente el desarrollo de una aplicación, considerando las ventajas y desventajas para poder usarlas si es conveniente. 
+
+
+- 4. Una vez revisadas las herramientas para agilizar el desarrollo de aplicaciones en Flutter, viste cómo configurar el entorno de desarrollo en los sistemas operativos Windows y Linux, buscando en todo momento que los desarrollos no dependan del uso de una web, sino directamente de tu máquina, ya configurada con el SDK de Flutter.
+
+
+- 5. Cerramos este módulo creando un ejercicio sencillo y explicando de manera muy general la estructura de un proyecto realizado en Flutter. También nos adentramos al lenguaje de programación Dart con la realización de un ejemplo básico para entender este paradigma declarativo.
+
+
+## Referecias
+
+Universidad Europea. (2022, 18 marzo). ¿Qué es el desarrollo de aplicaciones multiplataforma? https://universidadeuropea.com/blog/que-es-desarrollo-aplicaciones-multiplataforma/
+
+Cómo instalar Flutter en Windows 10 en Android Studio y Visual Studio Code. (2019, 17 febrero). GiancarloCode. Recuperado 27 de septiembre de 2022, de https://giancarlocode.com/tutoriales-de-flutter/como-instalar-flutter-en-windows-10-en-android-studio-y-visual-studio-code/
+
+Instalar Flutter en Mac - Guía completa usando la terminal. (2020, 6 octubre). Dazzet. Recuperado 27 de septiembre de 2022, de https://dazzet.co/instalar-flutter-en-mac/
