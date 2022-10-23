@@ -163,7 +163,8 @@ Veamos la configuración del entorno de desarrollo en Windows:
 
 Primero, ubica la página que te permitirá instalar Flutter; es la siguiente: https://docs.flutter.dev/get-started/install
 
------ ANEXAR FOTO DE PAGINA DE INSTALACION
+
+![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_14_pagina_descarga.png?raw=true)
 
 Figura 5. Página para instalar Flutter
 
@@ -206,17 +207,17 @@ A continuación, vemos un ejemplo de código sobre un “Hola mundo” con Flutt
 // Se agrega la librería de material
  import 'package:flutter/material.dart';
 
-// Comienza el método main donde sera elprimer método que se ejecutara de nuestro proyecto
+// Comienza el método main donde será el primer método que se ejecutara de nuestro proyecto
 void main(List<String> args) {
   runApp( // Widget runApp 
-     MaterialApp( // Widget MaterialApp, que sera aun aplicación de material desing 
-      debugShowCheckedModeBanner: false, // quita el banner que esta en la parte superior derecha estando frente de la pantalla
+     MaterialApp( // Widget MaterialApp, que será una aplicación de material design 
+      debugShowCheckedModeBanner: false, // Quita el banner que está en la parte superior derecha estando frente de la pantalla
       home: Scaffold( // Widget donde se encarga de dar la estructura de nuestra App
         body: Center( // Widget que se encarga de centrar su contenido
-          child: Column( // Widget que permite que todos los elementos que esten dentro de este esten en modo columna
-            mainAxisAlignment: MainAxisAlignment.center,  // propiedad de alineacion de los elementos del Widget Column
+          child: Column( // Widget que permite que todos los elementos que estén dentro de este en modo columna
+            mainAxisAlignment: MainAxisAlignment.center,  // Propiedad de alineación de los elementos del Widget Column
             children: [
-              //Widget Text, simbolicamente muestra informacion como si fuera un dato en la pantalla
+               //Widget Text, simbólicamente muestra información como si fuera un dato en la pantalla
               const Text('Hola mundo', style: TextStyle( 
                 color: Colors.blue,
                 fontSize: 20
@@ -230,7 +231,7 @@ void main(List<String> args) {
   );
 }
 
-// Método o función holaMundo, esto se hace para empezar a tener una nosion de separacion de lógica de nuestra App
+// Método o función holaMundo, esto se hace para empezar a tener una noción de separación de lógica de nuestra App
 Widget holaMundo(){
   return const Center(
           child: Text('Hola mundo', style: TextStyle(
@@ -245,6 +246,12 @@ Widget holaMundo(){
 ```
 
 A continuación se ve la imagen del resultado del código.
+
+
+![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_13_resultado_codigo.png?raw=true)
+
+
+A continuación se ve el código con el resultado.
 
 ![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_11_resultado.gif?raw=true)
 
