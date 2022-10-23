@@ -79,7 +79,7 @@ Se decidió lanzarlo como un proyecto de código abierto, lo cual fue muy bien a
 Figura 3. Código de Flutter y su resultado en un dispositivo móvil
 
 La siguiente infografía te permitirá comprender mejor cómo está estructurado el SDK de Flutter y sus tecnologías.
-ANEXAR INFOGRAFÍA
+![M1S1_1](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_9_infografia.png)
 
 ##  Herramientas LowCode/NoCode para Flutter
 
