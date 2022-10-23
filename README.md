@@ -176,9 +176,8 @@ También puedes revisar el siguiente video: https://youtu.be/zuuPGu1BjHM
 
 ## Configuración del entorno de desarrollo en MacOS
 
-La configuración en el sistema operativo de MacOS tiene ciertas particularidades. A continuación, se deja el link del blog de Dazzet, en el cual se describe de manera general cómo instalar y configurar.(Instalar Flutter en Mac - Guía completa usando la terminal, 2020).
+La configuración en el sistema operativo de MacOS tiene ciertas particularidades. A continuación, se deja el link del blog de Dazzet, en el cual se describe de manera general cómo instalar y configurar. [Instalar Flutter en Mac - Guía completa usando la terminal, 2020](https://docs.google.com/document/d/18KRkutz50CgvqhpIC7kpFajOrUtVme4-/edit?usp=sharing&ouid=109463671594466264489&rtpof=true&sd=true)
 
---SE MODIFICA EL VIDEO PARA EDICIÓN
 También puedes consultar el siguiente video: https://youtu.be/KhY4ie8R-Y8
 
 Ahora que ya tienes Flutter instalado, seguimos con la creación de nuestro primer programa.
@@ -195,7 +194,7 @@ Es un elemento visual, por ejemplo, un botón, caja de texto o barra de título,
 
 Todos los elementos visuales de Flutter son widgets que tú puedes modificar si estos te lo permiten. Revisemos un ejemplo:
 
---- AQUI VA UNA IMAGEN DE WIDGETS 
+![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_7.png?raw=true)
 
 **¿Por qué muchos elementos visuales tienen la propiedad Child?**
 
