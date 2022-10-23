@@ -310,7 +310,7 @@ FloactionButton
 
 ![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_15_Tarea1_Ucamper.png?raw=true)
 
-Como has observado, lo que debes realizar es arrastrar y cambiar las propiedades de cada uno de los widgets utilizados. Te invitamos a verificar cómo va quedando el código. Aunque es posible que no se comprenda todo lo que se está colocando, no te preocupes, lo entenderás en las próximas U Classes.
+Como has observado, lo que debes realizar es arrastrar y cambiar las propiedades de cada uno de los widgets utilizados. Te invitamos a verificar cómo va quedando el código. Aunque es posible que no se comprenda todo lo que se está colocando, no te preocupes, lo entenderás en las próximas clases.
 
 
 **Tarea 2**
@@ -334,9 +334,9 @@ Link en el que podrás revisar más sobre este widget:
 https://api.flutter.dev/flutter/widgets/Padding-class.html
 
 
-##  Rescatando lo importante
+##  Destacando lo importante
 
-De esta sesión, lo más importante que rescataremos es lo siguiente:
+De esta sesión, recuerda lo siguiente:
 
 - 1. Una de las cosas que comprendiste es que antes de incursionar en el desarrollo multiplataforma debes conocer que toda tecnología tiene su parte nativa y sus respectivas ventajas y desventajas. Asimismo, visualizaste también cuántas tecnologías iguales a Flutter existen y por qué hemos elegido este programa en el presente Bootcamp, garantizando en todo momento sus bondades y la competitividad que garantiza.
 
