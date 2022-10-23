@@ -307,7 +307,7 @@ Dropdown
 Image
 FloactionButton 
 
---IMAGEN RETO
+![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_15_Tarea1_Ucamper.png?raw=true)
 
 Como has observado, lo que debes realizar es arrastrar y cambiar las propiedades de cada uno de los widgets utilizados. Te invitamos a verificar cómo va quedando el código. Aunque es posible que no se comprenda todo lo que se está colocando, no te preocupes, lo entenderás en las próximas U Classes.
 
@@ -316,7 +316,7 @@ Como has observado, lo que debes realizar es arrastrar y cambiar las propiedades
 
 Termina de configurar tu entorno de desarrollo para aplicaciones en Flutter, ya sea Visual Studio Code o Android Studio. Ahora, toma como base el ejercicio “Hola mundo” y realiza la siguiente aplicación:
 
---IMAGEN DE LA TAREA 2
+![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_15_Tarea_2.png?raw=true)
 
 Para agregarle una separación a los lados izquierdo y derecho, usa el widget paddig. Profundizaremos más al respecto en los siguientes ejercicios. 
 
