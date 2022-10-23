@@ -6,9 +6,9 @@ Espero te encuentres muy bien y con mucha motivación para empezar el recorrido 
 
 El objetivo de este primer módulo es que domines las bases tanto teóricas como prácticas sobre el desarrollo de aplicaciones multiplataforma, así como la sintaxis en el lenguaje de Dart. Además, conocerás las ventajas de desarrollar este tipo de aplicaciones y aprenderás a instalar las herramientas de desarrollo de Flutter, configurar un nuevo proyecto y cargarlo en un simulador y/o en un dispositivo físico.
 
-Iniciemos con la semana 1 de contenido. En esta conocerás los inicios del desarrollo de una app de forma nativa y multiplataforma; no te preocupes, entenderás todos estos conceptos muy pronto, así mismo se te ayudará a configurar tu entorno para poder crear apps en Windows, Mac o Linux.
+Inicia con la semana 1 de contenido. En esta conocerás las bases del desarrollo de una app de forma nativa y multiplataforma; no te preocupes, entenderás todos estos conceptos muy pronto, así mismo se te ayudará a configurar tu entorno para poder crear apps en Windows, Mac o Linux. Usa las guías en texto y video que te compartimos en el contenido y realiza la instalación correspondiente, si tienes dudas las podrás resolver en clase o asesoría. 
 
-¡Comencemos!
+¡Éxito!
 
 ## Desarrollo de aplicaciones nativas (móviles, web y escritorio)
 
@@ -337,22 +337,22 @@ https://api.flutter.dev/flutter/widgets/Padding-class.html
 
 De esta sesión, recuerda lo siguiente:
 
-- 1. Una de las cosas que comprendiste es que antes de incursionar en el desarrollo multiplataforma debes conocer que toda tecnología tiene su parte nativa y sus respectivas ventajas y desventajas. Asimismo, visualizaste también cuántas tecnologías iguales a Flutter existen y por qué hemos elegido este programa en el presente Bootcamp, garantizando en todo momento sus bondades y la competitividad que garantiza.
+- Una de las cosas que comprendiste es que antes de incursionar en el desarrollo multiplataforma debes conocer que toda tecnología tiene su parte nativa y sus respectivas ventajas y desventajas. Asimismo, visualizaste también cuántas tecnologías iguales a Flutter existen y por qué hemos elegido este programa en el presente Bootcamp, garantizando en todo momento sus bondades y la competitividad que garantiza.
 
 
-- 2. Una vez conocido el contexto del desarrollo de las aplicaciones nativas y multiplataforma, incursionaste en conocer más Flutter. Una de las cosas que descubriste fue que su paradigma de programación es declarativo y que ha crecido en muy poco tiempo. El programa asegura que la aplicación que desarrolles se puede ejecutar en móvil, escritorio y web.
+- Una vez conocido el contexto del desarrollo de las aplicaciones nativas y multiplataforma, incursionaste en conocer más Flutter. Una de las cosas que descubriste fue que su paradigma de programación es declarativo y que ha crecido en muy poco tiempo. El programa asegura que la aplicación que desarrolles se puede ejecutar en móvil, escritorio y web.
 
 
-- 3. Una vez vista la definición y arquitectura de Flutter, te adentraste en las herramientas LowCode y NoCode que existen en esta tecnología, con la garantía de que al usarlas puedes reducir sustancialmente el desarrollo de una aplicación, considerando las ventajas y desventajas para poder usarlas si es conveniente. 
+- Una vez vista la definición y arquitectura de Flutter, te adentraste en las herramientas LowCode y NoCode que existen en esta tecnología, con la garantía de que al usarlas puedes reducir sustancialmente el desarrollo de una aplicación, considerando las ventajas y desventajas para poder usarlas si es conveniente. 
 
 
-- 4. Una vez revisadas las herramientas para agilizar el desarrollo de aplicaciones en Flutter, viste cómo configurar el entorno de desarrollo en los sistemas operativos Windows y Linux, buscando en todo momento que los desarrollos no dependan del uso de una web, sino directamente de tu máquina, ya configurada con el SDK de Flutter.
+- Una vez revisadas las herramientas para agilizar el desarrollo de aplicaciones en Flutter, viste cómo configurar el entorno de desarrollo en los sistemas operativos Windows y Linux, buscando en todo momento que los desarrollos no dependan del uso de una web, sino directamente de tu máquina, ya configurada con el SDK de Flutter.
 
 
-- 5. Cerramos este módulo creando un ejercicio sencillo y explicando de manera muy general la estructura de un proyecto realizado en Flutter. También nos adentramos al lenguaje de programación Dart con la realización de un ejemplo básico para entender este paradigma declarativo.
+Cerraste esta semana creando un ejercicio sencillo y comprendiste de manera muy general la estructura de un proyecto realizado en Flutter. También te adentraste al lenguaje de programación Dart con la realización de un ejemplo básico para entender este paradigma declarativo. Anota todas tus dudas y comparte con tus colegas y coach en clase. ¡Esfuérzate mucho!
 
 
-## Referecias
+## Referencias
 
 Universidad Europea. (2022, 18 marzo). ¿Qué es el desarrollo de aplicaciones multiplataforma? https://universidadeuropea.com/blog/que-es-desarrollo-aplicaciones-multiplataforma/
 
