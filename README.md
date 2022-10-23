@@ -170,7 +170,7 @@ Primero, ubica la página que te permitirá instalar Flutter; es la siguiente: h
 
 Figura 5. Página para instalar Flutter
 
-En este link del blog de Giancarlo, se describen los pasos de la instalación. Es importante que sigas todos para lograr la configuración correcta. (Cómo instalar Flutter en Windows 10 en Android Studio y Visual Studio Code, 2019)
+En este link del blog de Giancarlo, se describen los pasos de la instalación. Es importante que sigas todos para lograr la configuración correcta. [Cómo instalar Flutter en Windows 10 en Android Studio y Visual Studio Code, 2019](https://docs.google.com/document/d/18-4N4iTNU_uyDwfPNXdpkJQ-QCUVK--2OnxRDoOIebE/edit?usp=sharing)
 
 También puedes revisar el siguiente video: https://youtu.be/zuuPGu1BjHM
 
