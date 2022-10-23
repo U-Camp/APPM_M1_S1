@@ -79,7 +79,9 @@ Se decidió lanzarlo como un proyecto de código abierto, lo cual fue muy bien a
 Figura 3. Código de Flutter y su resultado en un dispositivo móvil
 
 La siguiente infografía te permitirá comprender mejor cómo está estructurado el SDK de Flutter y sus tecnologías.
-![M1S1_1](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_10_infografia.png)
+
+<img src="https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_10_infografia.png" width="600px" />
+
 
 ##  Herramientas LowCode/NoCode para Flutter
 
@@ -247,8 +249,7 @@ Widget holaMundo(){
 
 A continuación se ve la imagen del resultado del código.
 
-
-![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_13_resultado_codigo.png?raw=true)
+<img src="https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_13_resultado_codigo.png" width="250px" />
 
 
 A continuación se ve el código con el resultado.
@@ -316,7 +317,7 @@ Como has observado, lo que debes realizar es arrastrar y cambiar las propiedades
 
 Termina de configurar tu entorno de desarrollo para aplicaciones en Flutter, ya sea Visual Studio Code o Android Studio. Ahora, toma como base el ejercicio “Hola mundo” y realiza la siguiente aplicación:
 
-![APPM7](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_15_Tarea_2.png?raw=true)
+<img src="https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_15_Tarea_2.png" width="250px" />
 
 Para agregarle una separación a los lados izquierdo y derecho, usa el widget paddig. Profundizaremos más al respecto en los siguientes ejercicios. 
 
