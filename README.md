@@ -154,3 +154,92 @@ En caso de Windows:
 Para aprender Flutter desde cero realmente no necesitas conocer su sintaxis, sin embargo, te serviría mucho haber tomado un curso de lógica y de estructura de datos para entender mejor cómo organizar los widgets. Es prioridad desarrollar tu lógica.
 
 Algo más que podría ser útil es entender cómo funciona la programación orientada a objetos, ya que Flutter trabaja 100 % de esta manera, aunque en Flutter se les llama widgets.
+
+## Configuración del entorno de desarrollo en Windows
+
+Contamos con cuatro opciones de configuración para Flutter: Windows, MacOS, Linux y ChromeOS. Cabe resaltar que pueden surgir más sistemas operativos o más configuraciones; dependerá mucho de los avances tecnológicos que tenga Flutter.
+
+Veamos la configuración del entorno de desarrollo en Windows: 
+
+Primero, ubica la página que te permitirá instalar Flutter; es la siguiente: https://docs.flutter.dev/get-started/install
+
+----- ANEXAR FOTO DE PAGINA DE INSTALACION
+
+Figura 5. Página para instalar Flutter
+
+En este link del blog de Giancarlo, se describen los pasos de la instalación. Es importante que sigas todos para lograr la configuración correcta. (Cómo instalar Flutter en Windows 10 en Android Studio y Visual Studio Code, 2019)
+
+También puedes revisar el siguiente video: https://youtu.be/zuuPGu1BjHM
+
+## Configuración del entorno de desarrollo en MacOS
+
+La configuración en el sistema operativo de MacOS tiene ciertas particularidades. A continuación, se deja el link del blog de Dazzet, en el cual se describe de manera general cómo instalar y configurar.(Instalar Flutter en Mac - Guía completa usando la terminal, 2020).
+
+--SE MODIFICA EL VIDEO PARA EDICIÓN
+También puedes consultar el siguiente video: https://youtu.be/KhY4ie8R-Y8
+
+Ahora que ya tienes Flutter instalado, seguimos con la creación de nuestro primer programa.
+
+##  El primer programa realizado en Flutter (Hola mundo desde Flutter!)
+
+Durante el desarrollo de aplicaciones en Flutter siempre nos encontraremos con varios cuestionamientos: ¿qué es un widget?, ¿a qué se refiere que todos son widgets?, ¿por qué muchos elementos visuales tienen la propiedad Child?, ¿puedo crear mi propio widget? Pues bien, responderemos algunos de ellos.
+
+**¿Qué es un widget?**
+
+Es un elemento visual, por ejemplo, un botón, caja de texto o barra de título, que permite modificar sus propiedades y comportamiento en algunos casos.
+
+**¿A qué se refiere que todos son widgets?**
+
+Todos los elementos visuales de Flutter son widgets que tú puedes modificar si estos te lo permiten. Revisemos un ejemplo:
+
+--- AQUI VA UNA IMAGEN DE WIDGETS 
+
+**¿Por qué muchos elementos visuales tienen la propiedad Child?**
+
+Por lo general, todos los elementos visuales o widgets tienen una opción de personalización, lo cual hace que tengas mayor control de este elemento para diseñarlo como creas más conveniente.
+
+Una vez contestadas las principales interrogantes, vamos a descubrir que con el lenguaje Dart se pueden hacer aplicaciones de manera más rápida y que la curva de aprendizaje es menor cuando ya vienes de tener otro lenguaje de desarrollo. En caso de no tener conocimiento, no te preocupes, lo vamos a descubrir muy pronto, conforme avancen las sesiones.
+
+A continuación, vemos un ejemplo de código sobre un “Hola mundo” con Flutter.
+
+```Dart
+// Se agrega la librería de material
+ import 'package:flutter/material.dart';
+
+// Comienza el método main donde sera elprimer método que se ejecutara de nuestro proyecto
+void main(List<String> args) {
+  runApp( // Widget runApp 
+     MaterialApp( // Widget MaterialApp, que sera aun aplicación de material desing 
+      debugShowCheckedModeBanner: false, // quita el banner que esta en la parte superior derecha estando frente de la pantalla
+      home: Scaffold( // Widget donde se encarga de dar la estructura de nuestra App
+        body: Center( // Widget que se encarga de centrar su contenido
+          child: Column( // Widget que permite que todos los elementos que esten dentro de este esten en modo columna
+            mainAxisAlignment: MainAxisAlignment.center,  // propiedad de alineacion de los elementos del Widget Column
+            children: [
+              //Widget Text, simbolicamente muestra informacion como si fuera un dato en la pantalla
+              const Text('Hola mundo', style: TextStyle( 
+                color: Colors.blue,
+                fontSize: 20
+              )),
+              holaMundo()
+            ],
+          ),
+        )
+      ),
+    )
+  );
+}
+
+// Método o función holaMundo, esto se hace para empezar a tener una nosion de separacion de lógica de nuestra App
+Widget holaMundo(){
+  return const Center(
+          child: Text('Hola mundo', style: TextStyle(
+            color: Colors.orange,
+            fontSize: 20
+          )
+        ),
+      );
+}
+
+
+```
