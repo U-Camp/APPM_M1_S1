@@ -11,17 +11,17 @@ Inicia con la semana 1 de contenido. En esta conocerás las bases del desarrollo
 ¡Éxito!
 
 # Tabla de contenidos
--[Desarrollo de aplicaciones nativas (móviles, web y escritorio)]()
--[Actualidad sobre el desarrollo de aplicaciones multiplataforma]()
--[¿Qué es Flutter y por qué usarlo?]()
--[Herramientas LowCode/NoCode para Flutter]()
--[Requisitos previos para crear aplicaciones con Flutter]()
--[Configuración del entorno de desarrollo en Windows]()
--[Configuración del entorno de desarrollo en MacOS]()
--[La anatomía de una aplicación en Flutter]()
--[Reto de la semana]()
--[Destacando lo importante]()
--[Referencias]()
+- [Desarrollo de aplicaciones nativas (móviles, web y escritorio)]()
+- [Actualidad sobre el desarrollo de aplicaciones multiplataforma]()
+- [¿Qué es Flutter y por qué usarlo?]()
+- [Herramientas LowCode/NoCode para Flutter]()
+- [Requisitos previos para crear aplicaciones con Flutter]()
+- [Configuración del entorno de desarrollo en Windows]()
+- [Configuración del entorno de desarrollo en MacOS]()
+- [La anatomía de una aplicación en Flutter]()
+- [Reto de la semana]()
+- [Destacando lo importante]()
+- [Referencias]()
 
 ## Desarrollo de aplicaciones nativas (móviles, web y escritorio)
 
