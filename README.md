@@ -10,6 +10,19 @@ Inicia con la semana 1 de contenido. En esta conocerás las bases del desarrollo
 
 ¡Éxito!
 
+# Tabla de contenidos
+-[Desarrollo de aplicaciones nativas (móviles, web y escritorio)]()
+-[Actualidad sobre el desarrollo de aplicaciones multiplataforma]()
+-[¿Qué es Flutter y por qué usarlo?]()
+-[Herramientas LowCode/NoCode para Flutter]()
+-[Requisitos previos para crear aplicaciones con Flutter]()
+-[Configuración del entorno de desarrollo en Windows]()
+-[Configuración del entorno de desarrollo en MacOS]()
+-[La anatomía de una aplicación en Flutter]()
+-[Reto de la semana]()
+-[Destacando lo importante]()
+-[Referencias]()
+
 ## Desarrollo de aplicaciones nativas (móviles, web y escritorio)
 
 El desarrollo de aplicaciones nativas hace alusión a que se emplea el lenguaje nativo de la plataforma para su construcción. Por ejemplo, el desarrollo de aplicaciones en el sistema operativo en Android sería en los lenguajes tales como Java y Kotlin. En el caso de Apple (iOS), el desarrollo sería en los lenguajes Objective-C y Swift o en el framework SwiftUI. Un último ejemplo sería el desarrollo de aplicaciones en Windows, que puede realizarse con el lenguaje de C# y Visual Basic Net, por mencionar los principales.
