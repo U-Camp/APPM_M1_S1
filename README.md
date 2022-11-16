@@ -183,15 +183,15 @@ Primero, ubica la página que te permitirá instalar Flutter; es la siguiente: h
 
 Figura 5. Página para instalar Flutter
 
-En este link del blog de Giancarlo, se describen los pasos de la instalación. Es importante que sigas todos para lograr la configuración correcta. [Cómo instalar Flutter en Windows 10 en Android Studio y Visual Studio Code, 2019](https://docs.google.com/document/d/18-4N4iTNU_uyDwfPNXdpkJQ-QCUVK--2OnxRDoOIebE/edit?usp=sharing)
+En este link del blog de Giancarlo, se describen los pasos de la instalación. Es importante que sigas todos para lograr la configuración correcta. [Cómo instalar Flutter en Windows 10 en Android Studio y Visual Studio Code, 2019](https://drive.google.com/file/d/1mKWOGRcO9Z8pMDURJgwNg33tz9eP2rPQ/view)
 
-También puedes revisar el siguiente video: https://youtu.be/zuuPGu1BjHM
+También puedes revisar el siguiente video: https://www.youtube.com/watch?v=QFoIeuoZZcQ
 
 ## Configuración del entorno de desarrollo en MacOS
 
-La configuración en el sistema operativo de MacOS tiene ciertas particularidades. A continuación, se deja el link del blog de Dazzet, en el cual se describe de manera general cómo instalar y configurar. [Instalar Flutter en Mac - Guía completa usando la terminal, 2020](https://docs.google.com/document/d/18KRkutz50CgvqhpIC7kpFajOrUtVme4-/edit?usp=sharing&ouid=109463671594466264489&rtpof=true&sd=true)
+La configuración en el sistema operativo de MacOS tiene ciertas particularidades. A continuación, se deja el link del blog de Dazzet, en el cual se describe de manera general cómo instalar y configurar. [Instalar Flutter en Mac - Guía completa usando la terminal, 2020](https://drive.google.com/file/d/198OOEPiyYPn3-Vktuk1SOYB_jMgA9mHz/view)
 
-También puedes consultar el siguiente video: https://youtu.be/KhY4ie8R-Y8
+También puedes consultar el siguiente video: https://www.youtube.com/watch?v=QbH4W42OXtE
 
 Ahora que ya tienes Flutter instalado, seguimos con la creación de nuestro primer programa.
 
