@@ -69,7 +69,7 @@ No obstante, optar por un desarrollo móvil multiplataforma también tiene dos d
 
 Actualmente, algunos de los frameworks de desarrollo móvil multiplataforma más utilizados son React Native y Xamarin. A estos se ha unido recientemente Flutter, que soluciona los principales problemas del resto de frameworks de desarrollo móvil multiplataforma, y que se analizará en el tema siguiente.
 
-![M1S1_1](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_6.png?raw=true)
+[![Alt text](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_6.png?raw=true)
 Figura 2. Desarrollo multiplataforma actual en todos los dispositivos con la misma base de código
 
 ## ¿Qué es Flutter y por qué usarlo?
@@ -87,7 +87,7 @@ Se decidió lanzarlo como un proyecto de código abierto, lo cual fue muy bien a
 - Está escrito en C, C++ y, en su mayor parte, en Dart. 
 - De forma resumida, la capa del motor está escrita en C++ y la de los widgets en Dart.
 
- A continuación, dejamos un ejemplo de cómo se ve el código de Flutter y su resultado en un dispositivo móvil.
+A continuación, dejamos un ejemplo de cómo se ve el código de Flutter y su resultado en un dispositivo móvil.
  
 ![M1S1_1](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/APPM1.png?raw=true)
 Figura 3. Código de Flutter y su resultado en un dispositivo móvil
@@ -95,7 +95,6 @@ Figura 3. Código de Flutter y su resultado en un dispositivo móvil
 La siguiente infografía te permitirá comprender mejor cómo está estructurado el SDK de Flutter y sus tecnologías.
 
 <img src="https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/M1_AppsFlutter_10_infografia.png" width="600px" />
-
 
 ##  Herramientas LowCode/NoCode para Flutter
 
