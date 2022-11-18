@@ -78,7 +78,7 @@ Flutter se define como un SDK de Google, creado para diseñar interfaces nativas
 
 Se decidió lanzarlo como un proyecto de código abierto, lo cual fue muy bien adoptado por la comunidad. Emplea el lenguaje de programación DART, que tiene gran parecido con varios lenguajes de programación existentes en el mercado.
 
-- Estas son algunas de las principales ventajas de utilizar Flutter:
+Estas son algunas de las principales ventajas de utilizar Flutter:
 - Compila en nativo.
 - La creación de interfaces gráficas es muy flexible.
 - El desarrollo es muy rápido.
