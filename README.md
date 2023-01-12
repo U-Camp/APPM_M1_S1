@@ -1,16 +1,7 @@
 ![Banner](https://github.com/U-Camp/APPM_M1_S1/blob/main/imagenes/Banner_APPM.png?raw=true)
 
-# APPM_M1_S1
-¡Hola, te damos la bienvenida al Bootcamp de Aplicaciones móviles multiplataforma en Flutter! 
-Espero te encuentres muy bien y con mucha motivación para empezar el recorrido del diseño y creación de apps multiplataforma empresariales e industriales para sistemas operativos móviles como iOS y Android, así como de escritorio para Windows, MacOS, Linux o para la web, utilizando la plataforma de Dart y Flutter.
-
-El objetivo de este primer módulo es que domines las bases tanto teóricas como prácticas sobre el desarrollo de aplicaciones multiplataforma, así como la sintaxis en el lenguaje de Dart. Además, conocerás las ventajas de desarrollar este tipo de aplicaciones y aprenderás a instalar las herramientas de desarrollo de Flutter, configurar un nuevo proyecto y cargarlo en un simulador y/o en un dispositivo físico.
-
-Inicia con la semana 1 de contenido. En esta conocerás las bases del desarrollo de una app de forma nativa y multiplataforma; no te preocupes, entenderás todos estos conceptos muy pronto, así mismo se te ayudará a configurar tu entorno para poder crear apps en Windows, Mac o Linux. Usa las guías en texto y video que te compartimos en el contenido y realiza la instalación correspondiente, si tienes dudas las podrás resolver en clase o asesoría. 
-
-¡Éxito!
-
 # Tabla de contenidos
+- [Introducción](
 - [Desarrollo de aplicaciones nativas (móviles, web y escritorio)](#desarrollo-de-aplicaciones-nativas-m%C3%B3viles-web-y-escritorio)
 - [Actualidad sobre el desarrollo de aplicaciones multiplataforma](#actualidad-sobre-el-desarrollo-de-aplicaciones-multiplataforma)
 - [¿Qué es Flutter y por qué usarlo?](#qu%C3%A9-es-flutter-y-por-qu%C3%A9-usarlo)
@@ -23,6 +14,16 @@ Inicia con la semana 1 de contenido. En esta conocerás las bases del desarrollo
 - [Reto de la semana](#reto-de-la-semana)
 - [Destacando lo importante](#destacando-lo-importante)
 - [Referencias](#referencias)
+
+## Introducción 
+¡Hola, te damos la bienvenida al Bootcamp de Aplicaciones móviles multiplataforma en Flutter! 
+Espero te encuentres muy bien y con mucha motivación para empezar el recorrido del diseño y creación de apps multiplataforma empresariales e industriales para sistemas operativos móviles como iOS y Android, así como de escritorio para Windows, MacOS, Linux o para la web, utilizando la plataforma de Dart y Flutter.
+
+El objetivo de este primer módulo es que domines las bases tanto teóricas como prácticas sobre el desarrollo de aplicaciones multiplataforma, así como la sintaxis en el lenguaje de Dart. Además, conocerás las ventajas de desarrollar este tipo de aplicaciones y aprenderás a instalar las herramientas de desarrollo de Flutter, configurar un nuevo proyecto y cargarlo en un simulador y/o en un dispositivo físico.
+
+Inicia con la semana 1 de contenido. En esta conocerás las bases del desarrollo de una app de forma nativa y multiplataforma; no te preocupes, entenderás todos estos conceptos muy pronto, así mismo se te ayudará a configurar tu entorno para poder crear apps en Windows, Mac o Linux. Usa las guías en texto y video que te compartimos en el contenido y realiza la instalación correspondiente, si tienes dudas las podrás resolver en clase o asesoría. 
+
+¡Éxito!
 
 ## Desarrollo de aplicaciones nativas (móviles, web y escritorio)
 
