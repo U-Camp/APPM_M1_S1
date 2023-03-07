@@ -26,7 +26,7 @@ Inicia con la semana 1 de contenido. En esta conocerás las bases del desarrollo
 
 **¡Recuerda que cada línea de código es una oportunidad para mejorar tus habilidades! No pierdas la oportunidad de aprovechar al máximo tu tiempo de clase o asesoría, practica cada ejemplo de este repositorio y anota todas tus dudas.**
 
-**¡Estamos aquí para ayudarte a alcanzar tus metas!**
+¡Estamos aquí para ayudarte a alcanzar tus metas!
 
 ## Desarrollo de aplicaciones nativas (móviles, web y escritorio)
 
