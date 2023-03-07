@@ -23,6 +23,8 @@ El objetivo de este primer módulo es que domines las bases tanto teóricas como
 
 Inicia con la semana 1 de contenido. En esta conocerás las bases del desarrollo de una app de forma nativa y multiplataforma; no te preocupes, entenderás todos estos conceptos muy pronto, así mismo se te ayudará a configurar tu entorno para poder crear apps en Windows, Mac o Linux. Usa las guías en texto y video que te compartimos en el contenido y realiza la instalación correspondiente, si tienes dudas las podrás resolver en clase o asesoría. 
 
+**¡Recuerda que cada línea de código es una oportunidad para mejorar tus habilidades! No pierdas la oportunidad de aprovechar al máximo tu tiempo de clase o asesoría, ¡practica cada ejemplo y resuelve todas tus dudas! ¡Estamos aquí para ayudarte a alcanzar tus metas!**
+
 ¡Éxito!
 
 ## Desarrollo de aplicaciones nativas (móviles, web y escritorio)
@@ -99,7 +101,7 @@ La siguiente infografía te permitirá comprender mejor cómo está estructurado
 
 ##  Herramientas LowCode/NoCode para Flutter
 
-Muchas personas en la actualidad quieren crear apps con o sin conocimientos de programación, por lo cual han surgido plataformas que permiten crearlas sin necesidad de escribir alguna línea de código, y otras se complementan con las dos formas. A partir de estas tendencias, surgen los conceptos *LowCode* y *NoCode*.
+Muchas personas en la actualidad quieren crear apps con o sin conocimientos de programación, por lo cual han surgido plataformas que permiten crearlas sin necesidad de escribir alguna línea de código, y otras se complementan con las dos formas. A partir de estas tendencias, surgen los conceptos **LowCode** y **NoCode**.
 
 Desarrollar aplicaciones con métodos y modelos visuales es más rápido que realizarlo usando código. Con el fin de que se lleven a cabo desarrollos con capacidades de modelado visual, las plataformas LowCode utilizan componentes integrados para representar cualquier información de manera legible para cualquier persona, desde usuarios comerciales habituales sin conocimientos técnicos hasta desarrolladores profesionales; algunas de estas herramientas pueden exportar el código para seguir trabajándolo.
 
