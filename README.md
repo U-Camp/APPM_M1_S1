@@ -13,7 +13,7 @@
 - [La anatomía de una aplicación en Flutter](#la-anatom%C3%ADa-de-una-aplicaci%C3%B3n-en-flutter)
 - [Reto de la semana](#reto-de-la-semana)
 - [Destacando lo importante](#destacando-lo-importante)
-- [Mindset](#Mindset-del-módulo)
+- [Mindset del módulo](#Mindset-del-módulo)
 - [Referencias](#referencias)
 
 ## Introducción 
