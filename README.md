@@ -306,9 +306,9 @@ Cabe resaltar que el contenido de estas carpetas dependerá del proyecto y las c
 Hay más archivos en cuanto a configuraciones de Flutter, pero hablaremos de ellos en el siguiente módulo.
 
 
-##  Reto de la semana
+##  Reto semanal
 
-**Tarea 1**
+**Práctica 1**
 
 Empleando las herramientas mencionadas de LowCode o NoCode, realiza el siguiente diseño (te recomendamos usar Flutter Studio):
 
@@ -328,7 +328,7 @@ FloactionButton
 Como has observado, lo que debes realizar es arrastrar y cambiar las propiedades de cada uno de los widgets utilizados. Te invitamos a verificar cómo va quedando el código. Aunque es posible que no se comprenda todo lo que se está colocando, no te preocupes, lo entenderás en las próximas clases.
 
 
-**Tarea 2**
+**Práctica 2**
 
 Termina de configurar tu entorno de desarrollo para aplicaciones en Flutter, ya sea Visual Studio Code o Android Studio. Ahora, toma como base el ejercicio “Hola mundo” y realiza la siguiente aplicación:
 
@@ -367,6 +367,13 @@ De esta sesión, recuerda lo siguiente:
 
 Cerraste esta semana creando un ejercicio sencillo y comprendiste de manera muy general la estructura de un proyecto realizado en Flutter. También te adentraste al lenguaje de programación Dart con la realización de un ejemplo básico para entender este paradigma declarativo. Anota todas tus dudas y comparte con tus colegas y coach en clase. ¡Esfuérzate mucho!
 
+## Mindset
+
+La habilidad de **compromiso** es esencial para cualquier persona que trabaje en el mundo del desarrollo multiplataforma, ya que les permite **trabajar de manera enfocada y consistente** en proyectos a largo plazo, **cumplir con plazos ajustados** y **colaborar** efectivamente en equipos multidisciplinarios.
+
+¡Fortalece tu habilidad para comprometerte en este nuevo camino que estás emprendiendo! Esta soft skill te será de gran utilidad en todo lo que te propongas. 
+
+¡Éxito!
 
 ## Referencias
 
