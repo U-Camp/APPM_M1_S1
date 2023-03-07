@@ -13,6 +13,7 @@
 - [La anatomía de una aplicación en Flutter](#la-anatom%C3%ADa-de-una-aplicaci%C3%B3n-en-flutter)
 - [Reto de la semana](#reto-de-la-semana)
 - [Destacando lo importante](#destacando-lo-importante)
+- [Mindset](#Mindset-del-módulo)
 - [Referencias](#referencias)
 
 ## Introducción 
@@ -367,7 +368,7 @@ De esta sesión, recuerda lo siguiente:
 
 Cerraste esta semana creando un ejercicio sencillo y comprendiste de manera muy general la estructura de un proyecto realizado en Flutter. También te adentraste al lenguaje de programación Dart con la realización de un ejemplo básico para entender este paradigma declarativo. Anota todas tus dudas y comparte con tus colegas y coach en clase. ¡Esfuérzate mucho!
 
-## Mindset
+## Mindset del módulo
 
 La habilidad de **compromiso** es esencial para cualquier persona que trabaje en el mundo del desarrollo multiplataforma, ya que les permite **trabajar de manera enfocada y consistente** en proyectos a largo plazo, **cumplir con plazos ajustados** y **colaborar** efectivamente en equipos multidisciplinarios.
 
