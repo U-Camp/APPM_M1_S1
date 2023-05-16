@@ -1,6 +1,7 @@
 ![Banner](https://github.com/U-Camp/APPM_M4_S14/blob/main/Imagenes/Banner%20Github_Apps%20con%20Flutter.png?raw=true)
 
-# dfsdfs
+# Introducción: herramientas y configuración
+
 - [Introducción](#Introducción)
 - [Desarrollo de aplicaciones nativas (móviles, web y escritorio)](#desarrollo-de-aplicaciones-nativas-m%C3%B3viles-web-y-escritorio)
 - [Actualidad sobre el desarrollo de aplicaciones multiplataforma](#actualidad-sobre-el-desarrollo-de-aplicaciones-multiplataforma)
