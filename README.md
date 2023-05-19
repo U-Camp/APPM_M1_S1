@@ -13,7 +13,7 @@
 - [El primer programa realizado en Flutter (Hola mundo desde Flutter!)](#el-primer-programa-realizado-en-flutter-hola-mundo-desde-flutter)
 - [La anatomía de una aplicación en Flutter](#la-anatom%C3%ADa-de-una-aplicaci%C3%B3n-en-flutter)
 - [Reto de la semana](#reto-de-la-semana)
-- [Destacando lo importante](#destacando-lo-importante)
+- [Rescatando lo importante](#rescatando-lo-importante)
 - [Mindset del módulo](#Mindset-del-módulo)
 - [Referencias](#referencias)
 
@@ -351,7 +351,7 @@ Link en el que podrás revisar más sobre este widget:
 https://api.flutter.dev/flutter/widgets/Padding-class.html
 
 
-##  Destacando lo importante
+##  Rescatando lo importante
 
 De esta sesión, recuerda lo siguiente:
 
